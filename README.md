@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LevonHunan
-- 👀 I’m interested in JS
-- 🌱 I’m currently learning JS
+- 👀 I’m interested in JS , Devops
+- 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me 
 
